@@ -34,6 +34,8 @@ The result is a set of story‑driven charts that turn years of mundane receipts
 
 All of this was built from raw receipt data without any pre‑existing labels or machine‑learning training — the classification is entirely rule‑based NLP, making the methodology transparent, interpretable, and surprisingly accurate.
 
+[Download the PowerPoint presentation slides]https://github.com/rbanl/Tesco-Trolley-Decoder-exposing-hidden-spending-personalities-cooking-rhythms-and-health-blind-spot/raw/refs/heads/main/Tesco%20Customer%20Analysis.pptx
+
 ##Please see python code below:
 
 
