@@ -1,5 +1,5 @@
 # Tesco Trolley Decoder
-Decoding years of grocery receipts with NLP to expose hidden spending personalities, cooking rhythms, and health blind spots
+Decoding years of grocery receipts with Natural Language Processing to expose hidden spending personalities, cooking rhythms, and health blind spots
 
 ---
 
